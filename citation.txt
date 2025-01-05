@@ -1,0 +1,7 @@
+@article{REPO069,
+    author = "Zeinali, Behnam and Zanddizari, Hadi and Chang, Morris J",
+    journal = "IEEE Transactions on Instrumentation and Measurement",
+    publisher = "IEEE",
+    title = "{IMUNet: Efficient Regression Architecture for Inertial IMU Navigation and Positioning}",
+    year = "2024"
+}
